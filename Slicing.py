@@ -1,0 +1,5 @@
+string=input("Enter a String: ")
+print(string[-3:])
+print(string[:-4:-1])
+print(string[:-3])
+print(string[-3::-1])
